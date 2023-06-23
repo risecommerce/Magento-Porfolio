@@ -1,4 +1,7 @@
 ##Portfolio Extension
+
+##Magento 2 Photo Gallery Extensions
+
 Magento 2 Portfolio gallery with category filter have user-friendly interface to Showcase portfolio, images, video, gallery.
 
 ##Support: 
